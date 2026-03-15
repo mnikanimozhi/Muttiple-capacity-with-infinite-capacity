@@ -21,7 +21,7 @@ Name:KANIMOZHI K N
 Reg no:212225230126
 Slot no:T1-I5
 import math 
- 
+ ```
 arr_time_input = '' 
 
 while not arr_time_input.strip(): # Loop until a non-empty input is received 
@@ -75,7 +75,7 @@ else:
     print("Warning! Objects overflow will happen in the conveyor") 
 
 print("-----------------------------------------------------")
-
+```
 ## Output :
 
 <img width="708" height="372" alt="Screenshot 2026-03-13 151259" src="https://github.com/user-attachments/assets/a4dfa355-3171-45f3-b092-554dd0467311" />
